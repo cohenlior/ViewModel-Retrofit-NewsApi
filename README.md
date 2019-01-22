@@ -35,4 +35,7 @@ A basic android application which uses news API to show headlines and articles l
 * ViewHolder: Used in the Adapters to reuse views in the inflation process of the cells. This brings us main benefit the proper    	   management of memory and fluency in lists. it's a mendatory in RecyclerView.
 * Builder: Used to create customizeds objects in line, stacking calls. Present in the app during the creation of API service.
 
+## Design Principles used are:
 
+* DRY (Don’t Repeat Yourself)
+* SRP: “Single Responsibility Principle” (part of SOLID principles)
