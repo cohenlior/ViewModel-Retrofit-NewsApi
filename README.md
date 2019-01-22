@@ -12,7 +12,7 @@ A basic android application which uses news API to show headlines and articles l
 ## The app has following packages:
 
 * model- contains a data entity class which represents the data object for the response.
-* network- Service classes that manages API calls.
+* network- service classes that manages API calls.
 * ui- main activity and fragments with a recyclerView adapter.
 * viewModel- classes for storing and managing UI-ralated data.
 
