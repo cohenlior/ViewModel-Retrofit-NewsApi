@@ -1,6 +1,6 @@
 "# AutoDeskAssignment" 
 
-The app is wrriten in kotlin and uses:
+The app is written in kotlin and uses:
 	1. kotlin extensions.
 	2. kotlin data class.
 	3. androidX packages.
