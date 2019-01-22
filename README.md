@@ -9,7 +9,7 @@ The app has following packages:
  	1. entity: A data entity which represents the data object for the response.
 	2. network: Service classes that manages API calls.
 	3. ui: main activity and fragments with a recyclerView adapter.
-	4. viewModel: classed for storing and managing UI-ralated data.
+	4. viewModel: classes for storing and managing UI-ralated data.
 
 The app follows the Android Architectue Components desgin and uses:
  	1. LiveData
