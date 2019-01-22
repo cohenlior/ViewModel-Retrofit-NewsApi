@@ -1,5 +1,5 @@
 	
-# AutoDeskAssignment
+# Assignment
 
 A basic android application which uses news API to show headlines and articles live all over the web.
 
