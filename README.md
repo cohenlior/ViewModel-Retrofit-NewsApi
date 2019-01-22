@@ -6,7 +6,7 @@ A basic android application which uses news API to show headlines and articles l
 ## The app is written in kotlin and uses:
 
 * kotlin extensions.
-* Kotlin extensions.
+* Kotlin data class.
 * AndroidX packages.
 
 ## The app has following packages:
