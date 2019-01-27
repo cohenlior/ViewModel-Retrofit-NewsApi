@@ -39,3 +39,4 @@ A basic android application which uses news API to show headlines and articles l
 
 * DRY (Don’t Repeat Yourself)
 * SRP: “Single Responsibility Principle” (part of SOLID principles)
+* "Separation of concerns"
